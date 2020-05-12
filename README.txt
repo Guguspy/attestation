@@ -16,7 +16,3 @@ Votre qrcode (qrcode.png) et votre attestation (attestation.pdf);
 4) Je décline toutes responsabilités, cependant le script crée une copie MOT pour MOT de l'attestation,
 avec un qrcode respectant le qrcode officiel généré via : https://media.interieur.gouv.fr/deplacement-covid-19/ ;
 Mais des testeurs se sont fait contrôler avec, et n'ont rencontré aucun problème ;
-
-5) N'hésitez pas à me faire des retours, ou me demandez de l'aide sur discord : Gugus le Pingouin#0547 | ou par mail : attestation.py@gmail.com;
-
-6) Si c'est utile, lâche moi un sub sur youtube : FR GugusZoo
