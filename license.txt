@@ -1,0 +1,21 @@
+
+Copyright (c) 2020 Guillaume.R | Gugus le Pingouin#0547| GugusPy
+
+==============================================================
+			À lire
+==============================================================
+
+Ce logiciel est interdit à la vente.
+Votre modification peut y être apporté, cependant ne vous appropriez par le script, mais partagez-le !
+
+Je décline toutes responsabilités, cependant le fichier créé est une copie MOT pour MOT de l'attestation,
+avec un qrcode respectant le qrcode officiel généré via : https://media.interieur.gouv.fr/deplacement-covid-19/ ;
+mais des testeurs se sont fait contrôler avec, et n'ont rencontré aucun problème ;
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE,
+ADAPTATION À UN USAGE PARTICULIER ET NON-CONTREFAÇON. EN AUCUN CAS, LE
+LES AUTEURS OU LES DÉTENTEURS DE DROITS D'AUTEUR SONT RESPONSABLES DE TOUTES RÉCLAMATIONS, DOMMAGES OU AUTRES
+RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION DE CONTRAT, TORT OU AUTRE, DÉCOULANT DE,
+HORS OU EN LIEN AVEC LE LOGICIEL OU L'UTILISATION OU AUTRES OPÉRATIONS DANS LE
+LOGICIEL.
